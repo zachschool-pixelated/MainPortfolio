@@ -9,6 +9,8 @@
 
 #about {
     margin-top: 150px;
+    display: center;
+    justify-content: center;
 }
 
 #skills {
