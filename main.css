@@ -1,17 +1,16 @@
 #home {
     margin-top: 50px;
-    height: 100vh;
-    padding: 20px;
+    height: 95vh;
     background-color: #f0f0f0;
     width: 100%;
     box-sizing: border-box;
-}
-
-#about {
-    margin-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#about {
+    margin-top: 60px;
 }
 
 #skills {
